@@ -19,6 +19,5 @@ Atom
 
 
 Athos 2.4.1 LTS (Pangolin) is based on Ubuntu 20.04 LTS.
-
 Athos is released under GPL V 3.0 and a mix of other licenses (See Ubuntu licensing).
 Ubuntu is a trademark registered to Cannonical and is in no way affiliated with Athos.
